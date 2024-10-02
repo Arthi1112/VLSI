@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/ripple_adder_tb_isim_beh.exe" -prj "/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/ripple_adder_tb_beh.prj" "work.ripple_adder_tb" "work.glbl" 

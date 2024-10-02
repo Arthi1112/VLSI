@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/ripple_adder.xst" -ofn "/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/ripple_adder.syr" 
+xst -intstyle ise -ifn "/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/ripple_adder.xst" -ofn "/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/ripple_adder.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim ripple_adder.ngc ripple_adder_synthesis.v 
+xst -intstyle ise -ifn "/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/ripple_adder.xst" -ofn "/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/ripple_adder.syr" 
