@@ -1,0 +1,3 @@
+verilog work "../rtl/4x1Mux.v"
+verilog work "../tb/4x1Mux_tb.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

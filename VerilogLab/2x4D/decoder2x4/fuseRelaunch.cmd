@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/artmad/vlab/lab1/Verilog_labs/2x4D/decoder2x4/Decoder_tb_isim_beh.exe" -prj "/home/artmad/vlab/lab1/Verilog_labs/2x4D/decoder2x4/Decoder_tb_beh.prj" "work.Decoder_tb" "work.glbl" 
