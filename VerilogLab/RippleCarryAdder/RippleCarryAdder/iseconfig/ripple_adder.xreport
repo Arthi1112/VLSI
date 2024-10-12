@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-10-03T00:14:52</DateModified>
+  <DateModified>2024-10-04T14:09:49</DateModified>
   <ModuleName>ripple_adder</ModuleName>
   <SummaryTimeStamp>2024-10-03T00:05:32</SummaryTimeStamp>
   <SavedFilePath>/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/iseconfig/ripple_adder.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/</ImplementationReportsDirectory>
   <DateInitialized>2024-10-02T23:19:14</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

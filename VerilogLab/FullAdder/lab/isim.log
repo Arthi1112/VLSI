@@ -1,5 +1,5 @@
 ISim log file
-Running: /home/artmad/vlab/lab1/Verilog_labs/lab1/lab/full_adder_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/artmad/vlab/lab1/Verilog_labs/lab1/lab/full_adder_tb_isim_beh.wdb 
+Running: /home/artmad/VLSI/VerilogLab/FullAdder/lab/full_adder_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/artmad/VLSI/VerilogLab/FullAdder/lab/full_adder_tb_isim_beh.wdb 
 ISim P.20131013 (signature 0xfbc00daa)
 WARNING: A WEBPACK license was found.
 WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
@@ -19,5 +19,4 @@ Values of a=1, b=0, cin=0,sum =1, carry=0
 Values of a=1, b=0, cin=1,sum =0, carry=1
 Values of a=1, b=1, cin=0,sum =0, carry=1
 Values of a=1, b=1, cin=1,sum =1, carry=1
-Stopped at time : 100 ns : File "/home/artmad/vlab/lab1/Verilog_labs/lab1/tb/full_adder_tb.v" Line 54
-# exit 0
+Stopped at time : 100 ns : File "/home/artmad/VLSI/VerilogLab/FullAdder/tb/full_adder_tb.v" Line 54

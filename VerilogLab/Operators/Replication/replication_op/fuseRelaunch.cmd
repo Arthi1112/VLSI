@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/artmad/VLSI/VerilogLab/Operators/Replication/replication_op/concat_repl_op_isim_beh.exe" -prj "/home/artmad/VLSI/VerilogLab/Operators/Replication/replication_op/concat_repl_op_beh.prj" "work.concat_repl_op" "work.glbl" 

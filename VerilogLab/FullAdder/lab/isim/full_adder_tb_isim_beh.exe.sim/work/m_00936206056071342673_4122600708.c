@@ -21,7 +21,7 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "/home/artmad/vlab/lab1/Verilog_labs/lab1/rtl/half_adder.v";
+static const char *ng0 = "/home/artmad/VLSI/VerilogLab/FullAdder/rtl/half_adder.v";
 
 
 

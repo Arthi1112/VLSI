@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/artmad/VLSI/VerilogLab/Operators/arithmetic_pitfall/pitfall/arithmetic_pitfalls_isim_beh.exe" -prj "/home/artmad/VLSI/VerilogLab/Operators/arithmetic_pitfall/pitfall/arithmetic_pitfalls_beh.prj" "work.arithmetic_pitfalls" "work.glbl" 

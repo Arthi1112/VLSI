@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/artmad/VLSI/VerilogLab/Combinational_circuits/decoder_3x8/decoder3x8/tb_decoder3to8_isim_beh.exe" -prj "/home/artmad/VLSI/VerilogLab/Combinational_circuits/decoder_3x8/decoder3x8/tb_decoder3to8_beh.prj" "work.tb_decoder3to8" "work.glbl" 

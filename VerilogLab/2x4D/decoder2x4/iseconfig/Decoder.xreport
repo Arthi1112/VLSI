@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-10-02T18:51:04</DateModified>
+  <DateModified>2024-10-04T14:11:32</DateModified>
   <ModuleName>Decoder</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>/home/artmad/vlab/lab1/Verilog_labs/2x4D/decoder2x4/iseconfig/Decoder.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/artmad/vlab/lab1/Verilog_labs/2x4D/decoder2x4</ImplementationReportsDirectory>
+  <SavedFilePath>/home/artmad/VLSI/VerilogLab/2x4D/decoder2x4/iseconfig/Decoder.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>/home/artmad/VLSI/VerilogLab/2x4D/decoder2x4/</ImplementationReportsDirectory>
   <DateInitialized>2024-10-02T18:51:03</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

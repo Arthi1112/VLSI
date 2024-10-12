@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="arithmetic_op.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="arith_op.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="arith_op.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="arith_op.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="arith_op_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="arith_op_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="arith_op_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="arith_op_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1728415393" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1728415393">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1728415394" xil_pn:in_ck="66719953557034" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1728415393">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../code.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1728415404" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-740612302049987507" xil_pn:start_ts="1728415404">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1728415404" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="1614740385402853867" xil_pn:start_ts="1728415404">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1728415404" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="319506656273279603" xil_pn:start_ts="1728415404">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1728415405" xil_pn:in_ck="66719953557034" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1728415404">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../code.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1728415412" xil_pn:in_ck="66719953557034" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-3304249631284220247" xil_pn:start_ts="1728415405">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="arith_op_beh.prj"/>
+      <outfile xil_pn:name="arith_op_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1728415412" xil_pn:in_ck="7992608359160987077" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-298277223325192596" xil_pn:start_ts="1728415412">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="arith_op_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+    </transform>
+  </transforms>
+
+</generated_project>

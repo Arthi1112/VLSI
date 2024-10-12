@@ -2,12 +2,12 @@ Command line:
    mux4x1_tb_isim_beh.exe
      -simmode  gui
      -simrunnum  0
-     -socket  47971
+     -socket  56931
 
-Wed Oct  2 21:22:20 2024
+Fri Oct  4 13:14:01 2024
 
 
- Elaboration Time: 0.07 sec
+ Elaboration Time: 0.09 sec
 
  Current Memory Usage: 183.968 Meg
 
@@ -21,9 +21,9 @@ Wed Oct  2 21:22:20 2024
  Total Scalar Nets and Variables : 111
 Total Line Count : 40
 
- Total Simulation Time: 0.2 sec
+ Total Simulation Time: 0.13 sec
 
  Current Memory Usage: 259.469 Meg
 
-Wed Oct  2 21:41:02 2024
+Fri Oct  4 15:12:22 2024
 

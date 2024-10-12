@@ -1,5 +1,5 @@
 ISim log file
-Running: /home/artmad/vlab/lab1/Verilog_labs/4x1Mux/Mux4x1/mux4x1_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/artmad/vlab/lab1/Verilog_labs/4x1Mux/Mux4x1/mux4x1_tb_isim_beh.wdb 
+Running: /home/artmad/VLSI/VerilogLab/4x1Mux/Mux4x1/mux4x1_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/artmad/VLSI/VerilogLab/4x1Mux/Mux4x1/mux4x1_tb_isim_beh.wdb 
 ISim P.20131013 (signature 0xfbc00daa)
 WARNING: A WEBPACK license was found.
 WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
@@ -16,8 +16,5 @@ Finished circuit initialization process.
 10000 |  01   | 1  | 1  | 0  | 1  | 1
 15000 |  10   | 0  | 0  | 0  | 1  | 0
 20000 |  11   | 1  | 1  | 1  | 1  | 1
-Stopped at time : 20 ns : File "/home/artmad/vlab/lab1/Verilog_labs/4x1Mux/tb/4x1Mux_tb.v" Line 35
-# run 1.00ms
-# run 10s
-# run 10.00us
+Stopped at time : 20 ns : File "/home/artmad/VLSI/VerilogLab/4x1Mux/tb/4x1Mux_tb.v" Line 35
 # exit 0

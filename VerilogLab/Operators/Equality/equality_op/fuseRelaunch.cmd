@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/artmad/VLSI/VerilogLab/Operators/Equality/equality_op/equality_example_isim_beh.exe" -prj "/home/artmad/VLSI/VerilogLab/Operators/Equality/equality_op/equality_example_beh.prj" "work.equality_example" "work.glbl" 

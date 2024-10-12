@@ -1,6 +1,5 @@
 ISim log file
 Running: /home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/ripple_adder_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/ripple_adder_tb_isim_beh.wdb 
-INFO: There is another simulation running in the same directory. Using database file name isim1.wdb.
 ISim P.20131013 (signature 0xfbc00daa)
 WARNING: A WEBPACK license was found.
 WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
@@ -63,3 +62,4 @@ a=0001 b=0100 sum is 0 0101
 a=0010 b=0101 sum is 0 0111
 a=0011 b=0110 sum is 0 1001
 Stopped at time : 800 ns : File "/home/artmad/VLSI/VerilogLab/RippleCarryAdder/tb/rippleCarry_tb.v" Line 19
+# run 10us

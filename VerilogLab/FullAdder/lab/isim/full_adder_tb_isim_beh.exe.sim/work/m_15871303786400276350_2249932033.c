@@ -22,7 +22,7 @@
 #define alloca _alloca
 #endif
 static const char *ng0 = "Values of a=%b, b=%b, cin=%b,sum =%b, carry=%b";
-static const char *ng1 = "/home/artmad/vlab/lab1/Verilog_labs/lab1/tb/full_adder_tb.v";
+static const char *ng1 = "/home/artmad/VLSI/VerilogLab/FullAdder/tb/full_adder_tb.v";
 static int ng2[] = {0, 0};
 static int ng3[] = {8, 0};
 static int ng4[] = {1, 0};

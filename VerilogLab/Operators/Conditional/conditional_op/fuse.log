@@ -1,0 +1,20 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/artmad/VLSI/VerilogLab/Operators/Conditional/conditional_op/conditional_operator_example_isim_beh.exe -prj /home/artmad/VLSI/VerilogLab/Operators/Conditional/conditional_op/conditional_operator_example_beh.prj work.conditional_operator_example work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/artmad/VLSI/VerilogLab/Operators/Conditional/conditional_op/../code.v" into library work
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 82704 KB
+Fuse CPU Usage: 5130 ms
+Compiling module conditional_operator_example
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 2 Verilog Units
+Built simulation executable /home/artmad/VLSI/VerilogLab/Operators/Conditional/conditional_op/conditional_operator_example_isim_beh.exe
+Fuse Memory Usage: 380724 KB
+Fuse CPU Usage: 5150 ms
+GCC CPU Usage: 850 ms

@@ -1,10 +1,29 @@
 Command line:
    ripple_adder_tb_isim_beh.exe
      -simmode  gui
-     -simrunnum  1
-     -socket  38763
+     -simrunnum  0
+     -socket  57897
 
-Thu Oct  3 00:20:32 2024
+Thu Oct  3 12:38:19 2024
 
 
- Elaboration Time: 0.07 sec
+ Elaboration Time: 0.04 sec
+
+ Current Memory Usage: 183.968 Meg
+
+ Total Signals          : 86
+ Total Nets             : 42
+ Total Signal Drivers   : 28
+ Total Blocks           : 15
+ Total Primitive Blocks : 9
+ Total Processes        : 31
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 162
+Total Line Count : 41
+
+ Total Simulation Time: 0.25 sec
+
+ Current Memory Usage: 259.469 Meg
+
+Thu Oct  3 13:11:36 2024
+

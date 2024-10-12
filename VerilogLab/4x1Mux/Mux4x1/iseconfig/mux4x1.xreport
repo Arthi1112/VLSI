@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-10-02T21:19:58</DateModified>
+  <DateModified>2024-10-04T14:08:13</DateModified>
   <ModuleName>mux4x1</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>/home/artmad/vlab/lab1/Verilog_labs/4x1Mux/Mux4x1/iseconfig/mux4x1.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/artmad/vlab/lab1/Verilog_labs/4x1Mux/Mux4x1/</ImplementationReportsDirectory>
+  <SavedFilePath>/home/artmad/VLSI/VerilogLab/4x1Mux/Mux4x1/iseconfig/mux4x1.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>/home/artmad/VLSI/VerilogLab/4x1Mux/Mux4x1/</ImplementationReportsDirectory>
   <DateInitialized>2024-10-02T20:15:30</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

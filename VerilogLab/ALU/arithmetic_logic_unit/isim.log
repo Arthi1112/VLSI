@@ -1,0 +1,115 @@
+ISim log file
+Running: /home/artmad/VLSI/VerilogLab/ALU/arithmetic_logic_unit/alu_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/artmad/VLSI/VerilogLab/ALU/arithmetic_logic_unit/alu_tb_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+WARNING: File "/home/artmad/VLSI/VerilogLab/ALU/tbcode.v" Line 7.  For instance alu_tb/dut/, width 17 of formal port d_out is not equal to width 16 of actual signal out.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Input oe=1, a=00000000, b=00000000, command=  ADD, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000000, command=  INC, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000000, command=  SUB, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000000, command=  DEC, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000000, command=  MUL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000000, command=  DIV, Output out=xxxxxxxxxxxxxxxx
+Input oe=1, a=00000000, b=00000000, command=  SHL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000000, command=  SHR, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000000, command=  AND, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000000, command=   OR, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000000, command=  INV, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000000, command= NAND, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000000, command=  NOR, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000000, command=  XOR, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000000, command= XNOR, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000000, command=  BUF, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000001, command=  ADD, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000001, command=  INC, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000001, command=  SUB, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000001, command=  DEC, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000001, command=  MUL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000001, command=  DIV, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000001, command=  SHL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000001, command=  SHR, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000001, command=  AND, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000001, command=   OR, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000001, command=  INV, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000001, command= NAND, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000001, command=  NOR, Output out=1111111111111110
+Input oe=1, a=00000000, b=00000001, command=  XOR, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000001, command= XNOR, Output out=1111111111111110
+Input oe=1, a=00000000, b=00000001, command=  BUF, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000010, command=  ADD, Output out=0000000000000010
+Input oe=1, a=00000000, b=00000010, command=  INC, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000010, command=  SUB, Output out=1111111111111110
+Input oe=1, a=00000000, b=00000010, command=  DEC, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000010, command=  MUL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000010, command=  DIV, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000010, command=  SHL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000010, command=  SHR, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000010, command=  AND, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000010, command=   OR, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000010, command=  INV, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000010, command= NAND, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000010, command=  NOR, Output out=1111111111111101
+Input oe=1, a=00000000, b=00000010, command=  XOR, Output out=0000000000000010
+Input oe=1, a=00000000, b=00000010, command= XNOR, Output out=1111111111111101
+Input oe=1, a=00000000, b=00000010, command=  BUF, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000011, command=  ADD, Output out=0000000000000011
+Input oe=1, a=00000000, b=00000011, command=  INC, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000011, command=  SUB, Output out=1111111111111101
+Input oe=1, a=00000000, b=00000011, command=  DEC, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000011, command=  MUL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000011, command=  DIV, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000011, command=  SHL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000011, command=  SHR, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000011, command=  AND, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000011, command=   OR, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000011, command=  INV, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000011, command= NAND, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000011, command=  NOR, Output out=1111111111111100
+Input oe=1, a=00000000, b=00000011, command=  XOR, Output out=0000000000000011
+Input oe=1, a=00000000, b=00000011, command= XNOR, Output out=1111111111111100
+Input oe=1, a=00000000, b=00000011, command=  BUF, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000100, command=  ADD, Output out=0000000000000100
+Input oe=1, a=00000000, b=00000100, command=  INC, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000100, command=  SUB, Output out=1111111111111100
+Input oe=1, a=00000000, b=00000100, command=  DEC, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000100, command=  MUL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000100, command=  DIV, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000100, command=  SHL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000100, command=  SHR, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000100, command=  AND, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000100, command=   OR, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000100, command=  INV, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000100, command= NAND, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000100, command=  NOR, Output out=1111111111111011
+Input oe=1, a=00000000, b=00000100, command=  XOR, Output out=0000000000000100
+Input oe=1, a=00000000, b=00000100, command= XNOR, Output out=1111111111111011
+Input oe=1, a=00000000, b=00000100, command=  BUF, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000101, command=  ADD, Output out=0000000000000101
+Input oe=1, a=00000000, b=00000101, command=  INC, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000101, command=  SUB, Output out=1111111111111011
+Input oe=1, a=00000000, b=00000101, command=  DEC, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000101, command=  MUL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000101, command=  DIV, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000101, command=  SHL, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000101, command=  SHR, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000101, command=  AND, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000101, command=   OR, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000101, command=  INV, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000101, command= NAND, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000101, command=  NOR, Output out=1111111111111010
+Input oe=1, a=00000000, b=00000101, command=  XOR, Output out=0000000000000101
+Input oe=1, a=00000000, b=00000101, command= XNOR, Output out=1111111111111010
+Input oe=1, a=00000000, b=00000101, command=  BUF, Output out=0000000000000000
+Input oe=1, a=00000000, b=00000110, command=  ADD, Output out=0000000000000110
+Input oe=1, a=00000000, b=00000110, command=  INC, Output out=0000000000000001
+Input oe=1, a=00000000, b=00000110, command=  SUB, Output out=1111111111111010
+Input oe=1, a=00000000, b=00000110, command=  DEC, Output out=1111111111111111
+Input oe=1, a=00000000, b=00000110, command=  MUL, Output out=0000000000000000

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="decoder3x8.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="decoder3to8.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="decoder3to8.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="decoder3to8.xst"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_decoder3to8.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="tb_decoder3to8.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="tb_decoder3to8.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_decoder3to8_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="tb_decoder3to8_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="tb_decoder3to8_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="tb_decoder3to8_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1728462249" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1728462249">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1728462249" xil_pn:in_ck="7683878897868110684" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1728462249">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../rtlcode.v"/>
+      <outfile xil_pn:name="../tbcode.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1728462259" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="6089544583080776112" xil_pn:start_ts="1728462259">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1728462259" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-6836032035362528306" xil_pn:start_ts="1728462259">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1728462259" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-7150535296137814474" xil_pn:start_ts="1728462259">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1728462259" xil_pn:in_ck="7683878897868110684" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1728462259">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="../rtlcode.v"/>
+      <outfile xil_pn:name="../tbcode.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1728462267" xil_pn:in_ck="7683878897868110684" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-9181320178825925681" xil_pn:start_ts="1728462259">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="tb_decoder3to8_beh.prj"/>
+      <outfile xil_pn:name="tb_decoder3to8_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1728462268" xil_pn:in_ck="-2845912632853817336" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="1925794642623289522" xil_pn:start_ts="1728462267">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="tb_decoder3to8_isim_beh.wdb"/>
+    </transform>
+  </transforms>
+
+</generated_project>

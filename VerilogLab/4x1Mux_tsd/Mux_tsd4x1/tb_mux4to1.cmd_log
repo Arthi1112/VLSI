@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/artmad/VLSI/VerilogLab/4x1Mux_tsd/Mux_tsd4x1/tb_mux4to1.xst" -ofn "/home/artmad/VLSI/VerilogLab/4x1Mux_tsd/Mux_tsd4x1/tb_mux4to1.syr" 

@@ -1,18 +1,18 @@
 Release 14.7 - xst P.20131013 (lin64)
 Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 --> 
-Parameter TMPDIR set to /home/artmad/vlab/lab1/Verilog_labs/lab1/lab/xst/projnav.tmp
+Parameter TMPDIR set to /home/artmad/VLSI/VerilogLab/FullAdder/lab/xst/projnav.tmp
 
 
-Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.18 secs
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.43 secs
  
 --> 
-Parameter xsthdpdir set to /home/artmad/vlab/lab1/Verilog_labs/lab1/lab/xst
+Parameter xsthdpdir set to /home/artmad/VLSI/VerilogLab/FullAdder/lab/xst
 
 
-Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.18 secs
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.44 secs
  
 --> 
 Reading design: full_adder.prj
@@ -42,19 +42,19 @@ TABLE OF CONTENTS
 =========================================================================
 *                          HDL Parsing                                  *
 =========================================================================
-Analyzing Verilog file "/home/artmad/vlab/lab1/Verilog_labs/lab1/rtl/half_adder.v" into library work
+Analyzing Verilog file "/home/artmad/VLSI/VerilogLab/FullAdder/rtl/half_adder.v" into library work
 Parsing module <half_adder>.
-Analyzing Verilog file "/home/artmad/vlab/lab1/Verilog_labs/lab1/rtl/full_adder.v" into library work
+Analyzing Verilog file "/home/artmad/VLSI/VerilogLab/FullAdder/rtl/full_adder.v" into library work
 Parsing module <full_adder>.
 
 
-Total REAL time to Xst completion: 33.00 secs
-Total CPU time to Xst completion: 31.45 secs
+Total REAL time to Xst completion: 186.00 secs
+Total CPU time to Xst completion: 160.84 secs
  
 --> 
 
 
-Total memory usage is 331748 kilobytes
+Total memory usage is 331760 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    0 (   0 filtered)

@@ -1,5 +1,5 @@
-set -tmpdir "/home/artmad/vlab/lab1/Verilog_labs/4x1Mux/Mux4x1/xst/projnav.tmp"
-set -xsthdpdir "/home/artmad/vlab/lab1/Verilog_labs/4x1Mux/Mux4x1/xst"
+set -tmpdir "/home/artmad/VLSI/VerilogLab/4x1Mux/Mux4x1/xst/projnav.tmp"
+set -xsthdpdir "/home/artmad/VLSI/VerilogLab/4x1Mux/Mux4x1/xst"
 run -compileonly yes
 -p xc7a100t-3-csg324
 -top mux4x1

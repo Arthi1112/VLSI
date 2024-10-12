@@ -1,0 +1,2 @@
+verilog work "../rtl/4x1mux-rtl.v"
+verilog work "../tb/4x1mux-tb.v"

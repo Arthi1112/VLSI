@@ -1,0 +1,29 @@
+Command line:
+   simple_relational_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  48007
+
+Tue Oct  8 23:56:16 2024
+
+
+ Elaboration Time: 0.06 sec
+
+ Current Memory Usage: 183.964 Meg
+
+ Total Signals          : 13
+ Total Nets             : 13
+ Total Signal Drivers   : 5
+ Total Blocks           : 2
+ Total Primitive Blocks : 2
+ Total Processes        : 7
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 105
+Total Line Count : 26
+
+ Total Simulation Time: 0.09 sec
+
+ Current Memory Usage: 259.465 Meg
+
+Wed Oct  9 00:10:48 2024
+

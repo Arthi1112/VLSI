@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/artmad/VLSI/VerilogLab/Operators/Relational/relational_op/simple_relational_isim_beh.exe" -prj "/home/artmad/VLSI/VerilogLab/Operators/Relational/relational_op/simple_relational_beh.prj" "work.simple_relational" "work.glbl" 

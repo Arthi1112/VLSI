@@ -1,5 +1,5 @@
-set -tmpdir "/home/artmad/vlab/lab1/Verilog_labs/lab1/lab/xst/projnav.tmp"
-set -xsthdpdir "/home/artmad/vlab/lab1/Verilog_labs/lab1/lab/xst"
+set -tmpdir "/home/artmad/VLSI/VerilogLab/FullAdder/lab/xst/projnav.tmp"
+set -xsthdpdir "/home/artmad/VLSI/VerilogLab/FullAdder/lab/xst"
 run -compileonly yes
 -p xc7a100t-3-csg324
 -top full_adder

@@ -1,9 +1,6 @@
-set -tmpdir "xst/projnav.tmp"
-set -xsthdpdir "xst"
-run
--ifn ripple_adder.prj
--ofn ripple_adder
--ofmt NGC
+set -tmpdir "/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/xst/projnav.tmp"
+set -xsthdpdir "/home/artmad/VLSI/VerilogLab/RippleCarryAdder/RippleCarryAdder/xst"
+run -compileonly yes
 -p xc7a100t-3-csg324
 -top ripple_adder
 -opt_mode Speed
@@ -50,3 +47,4 @@ run
 -iob Auto
 -equivalent_register_removal YES
 -slice_utilization_ratio_maxmargin 5
+-ifn ripple_adder.prj

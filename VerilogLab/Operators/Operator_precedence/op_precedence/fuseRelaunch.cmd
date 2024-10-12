@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/artmad/VLSI/VerilogLab/Operators/Operator_precedence/op_precedence/operator_precedence_isim_beh.exe" -prj "/home/artmad/VLSI/VerilogLab/Operators/Operator_precedence/op_precedence/operator_precedence_beh.prj" "work.operator_precedence" "work.glbl" 

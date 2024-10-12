@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-10-02T18:40:15</DateModified>
+  <DateModified>2024-10-08T21:18:07</DateModified>
   <ModuleName>full_adder</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>/home/artmad/vlab/lab1/Verilog_labs/lab1/lab/iseconfig/full_adder.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/home/artmad/vlab/lab1/Verilog_labs/lab1/lab/</ImplementationReportsDirectory>
+  <SavedFilePath>/home/artmad/VLSI/VerilogLab/FullAdder/lab/iseconfig/full_adder.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>/home/artmad/VLSI/VerilogLab/FullAdder/lab/</ImplementationReportsDirectory>
   <DateInitialized>2024-10-01T11:20:10</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

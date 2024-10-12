@@ -1,16 +1,16 @@
-Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/artmad/vlab/lab1/Verilog_labs/lab1/lab/full_adder_tb_isim_beh.exe -prj /home/artmad/vlab/lab1/Verilog_labs/lab1/lab/full_adder_tb_beh.prj work.full_adder_tb work.glbl 
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o /home/artmad/VLSI/VerilogLab/FullAdder/lab/full_adder_tb_isim_beh.exe -prj /home/artmad/VLSI/VerilogLab/FullAdder/lab/full_adder_tb_beh.prj work.full_adder_tb work.glbl 
 ISim P.20131013 (signature 0xfbc00daa)
 Number of CPUs detected in this system: 2
 Turning on mult-threading, number of parallel sub-compilation jobs: 4 
 Determining compilation order of HDL files
-Analyzing Verilog file "/home/artmad/vlab/lab1/Verilog_labs/lab1/lab/../rtl/half_adder.v" into library work
-Analyzing Verilog file "/home/artmad/vlab/lab1/Verilog_labs/lab1/lab/../rtl/full_adder.v" into library work
-Analyzing Verilog file "/home/artmad/vlab/lab1/Verilog_labs/lab1/lab/../tb/full_adder_tb.v" into library work
+Analyzing Verilog file "/home/artmad/VLSI/VerilogLab/FullAdder/lab/../rtl/half_adder.v" into library work
+Analyzing Verilog file "/home/artmad/VLSI/VerilogLab/FullAdder/lab/../rtl/full_adder.v" into library work
+Analyzing Verilog file "/home/artmad/VLSI/VerilogLab/FullAdder/lab/../tb/full_adder_tb.v" into library work
 Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
 Starting static elaboration
 Completed static elaboration
 Fuse Memory Usage: 82688 KB
-Fuse CPU Usage: 4660 ms
+Fuse CPU Usage: 14310 ms
 Compiling module half_adder
 Compiling module full_adder
 Compiling module full_adder_tb
@@ -18,7 +18,7 @@ Compiling module glbl
 Time Resolution for simulation is 1ps.
 Waiting for 2 sub-compilation(s) to finish...
 Compiled 4 Verilog Units
-Built simulation executable /home/artmad/vlab/lab1/Verilog_labs/lab1/lab/full_adder_tb_isim_beh.exe
+Built simulation executable /home/artmad/VLSI/VerilogLab/FullAdder/lab/full_adder_tb_isim_beh.exe
 Fuse Memory Usage: 380736 KB
-Fuse CPU Usage: 4700 ms
-GCC CPU Usage: 1740 ms
+Fuse CPU Usage: 14440 ms
+GCC CPU Usage: 7590 ms

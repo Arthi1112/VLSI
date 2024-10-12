@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "/home/artmad/VLSI/VerilogLab/bidirectional_buffer/bidir_buffer/tb_bidirectional_buffer_isim_beh.exe" -prj "/home/artmad/VLSI/VerilogLab/bidirectional_buffer/bidir_buffer/tb_bidirectional_buffer_beh.prj" "work.tb_bidirectional_buffer" "work.glbl" 

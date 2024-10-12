@@ -21,7 +21,7 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "/home/artmad/vlab/lab1/Verilog_labs/4x1Mux/tb/4x1Mux_tb.v";
+static const char *ng0 = "/home/artmad/VLSI/VerilogLab/4x1Mux/tb/4x1Mux_tb.v";
 static const char *ng1 = "mux4x1.vcd";
 static int ng2[] = {1, 0};
 static const char *ng3 = "Time | tsel | ta | tb | tc | td | out";
